@@ -1,10 +1,30 @@
 # الغابة الأسيرة (The Captive Forest)
-### لعبة مغامرات وألغاز تعاونية ثنائية عبر الشبكة المحلية (Two-Player Co-op LAN Adventure)
+### أسرار الحياة – Secrets of Life | لعبة مغامرات وألغاز تعاونية ثنائية عبر الشبكة المحلية (Two-Player Co-op LAN Adventure)
 
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS%20%2F%20Unity%206-blue.svg)](https://unity.com/)
 [![Render Pipeline](https://img.shields.io/badge/Pipeline-URP-orange.svg)](https://unity.com/srp/universal-render-pipeline)
 [![Networking](https://img.shields.io/badge/Netcode-NGO%20%2B%20UTP-green.svg)](https://docs-multiplayer.unity3d.com/)
 [![Platform](https://img.shields.io/badge/Platform-PC%20%28LAN%29-lightgrey.svg)]()
+
+---
+
+## 🏷️ حول تسمية المشروع وهويته (Project Naming & Identity)
+
+> [!NOTE] 
+> **مرونة التسمية بين المقترح ومحرك التطوير والتصدير (Build & Export):**
+> 
+> * **اسم مقترح التخرج المعتمد (Proposal & Product Title):**  
+>   اختارت طالبات فريق العمل (رزان، دانا، ألاء) اسم **`Secrets of Life` (أسرار الحياة)** في مقترح التخرج الأولي، وهو اسم معتمد تماماً وممتاز كعنوان للمشروع واسم تجاري للعبة.
+> 
+> * **ماذا يعكس الاسم البرمجي للمستودع `The Captive Forest` و `Resonance`؟**  
+>   تم تثبيت اسم المستودع والمشروع الداخلي في Unity باسم **`The Captive Forest` (الغابة الأسيرة)** وعنوان **`Resonance` (الرنين)** ليعكس بدقة الأركان التقنية والقصصية التالية:
+>   1. **الميكانيكا الجوهرية (Core Resonance Mechanic):** رنين القلادة السحرية (Resonance Pendant) المترابطة بين اللاعبين، وتغير شدة توهجها وتردد نبضها وحساب المسافة الإقليدية والتواصل الصوتي المباشر.
+>   2. **الإطار المكاني والقصصي للمرحلة الأولى (Narrative Context):** تجسيد حالة "الغابة الأسيرة" التي احتُجزت عناصر حياتها الأساسية (الضوء، الماء، والرياح) خلف أقفال ومرايا وسدود وجذور سحرية عملاقة.
+>   3. **فلسفة التكافل والتناغم (Interdependence):** استحالة اجتياز أي لغز بشكل فردي، وضرورة وجود تناغم وتجاوب كامل (Resonance) بين اللاعبين لاستعادة الحياة.
+> 
+> * **المرونة التقنية عند التصدير (Export Flexibility):**  
+>   في محرك Unity، يبقى اسم المستودع والمجلدات البرمجية (`TheCaptiveForest`) ثابتاً ومستقراً لحماية مسارات الكود وحزم الشبكة و Git، بينما يتم ضبط الاسم النهائي الذي يظهر للاعبين ولجنة التقييم في شريط النافذة وملف التشغيل (`.exe`) بكل سهولة عبر:  
+>   `Project Settings -> Player -> Product Name: "Secrets of Life"` أثناء عملية التصدير.
 
 ---
 
